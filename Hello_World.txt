@@ -1,3 +1,6 @@
 1) create folder and upload text file 
 2) change content txt file create new commit and push changes 
 3) pull repo, change file, commit and push 
+4) pull own repo , push repo 
+ change file commit and push 
+ change other text file, commit and push
